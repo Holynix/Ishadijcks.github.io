@@ -1,6 +1,6 @@
 var pokemonsPerRoute = {
 	1: {
-        land: ["Pidgey", "Rattata"]
+        land: ["Mew", "Mewtwo"]
     },
     2: {
         land: ["Caterpie", "Weedle", "Rattata", "Nidoran(F)", "Nidoran(M)"]
